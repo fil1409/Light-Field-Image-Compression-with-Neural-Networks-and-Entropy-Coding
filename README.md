@@ -30,7 +30,7 @@ Ogni cartella contiene i notebook Jupyter che mostrano:
 ## Come Iniziare
 
 1. Clona la repository:
-   git clone https://github.com/tuo-utente/nome-repository.git
+   git clone https://github.com/fil1409/Light-Field-Image-Compression-with-Neural-Networks-and-Entropy-Coding.git
 2. Apri i file .ipynb con Jupyter.
 
 # Light Field Image Compression with Entropy Coding and Deep Learning
@@ -65,5 +65,5 @@ Each folder contains Jupyter notebooks showing:
 ## Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/fil1409/Light-Field-Image-Compression-with-Neural-Networks-and-Entropy-Coding.git
 2. Open .ipynb files with Jupyter.
