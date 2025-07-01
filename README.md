@@ -33,6 +33,13 @@ Ogni cartella contiene i notebook Jupyter che mostrano:
    git clone https://github.com/fil1409/Light-Field-Image-Compression-with-Neural-Networks-and-Entropy-Coding.git
 2. Apri i file .ipynb con Jupyter.
 
+## 📬 Contatti
+
+Per domande o chiarimenti:
+  
+**🔗** [LinkedIn](https://www.linkedin.com/in/filippo-pio-farisco-64581a33b/)
+
+
 # Light Field Image Compression with Entropy Coding and Deep Learning
 
 This project explores the use of deep learning and entropy coding techniques for compressing Light Field Images (LFI). Various experiments were conducted by changing the number of images, resolution, and training epochs.
@@ -67,3 +74,9 @@ Each folder contains Jupyter notebooks showing:
 1. Clone the repository:
    git clone https://github.com/fil1409/Light-Field-Image-Compression-with-Neural-Networks-and-Entropy-Coding.git
 2. Open .ipynb files with Jupyter.
+
+## 📬 Contact
+
+For questions or further information:
+
+**🔗** [LinkedIn](https://www.linkedin.com/in/filippo-pio-farisco-64581a33b/)
